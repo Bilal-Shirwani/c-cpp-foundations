@@ -1,0 +1,1 @@
+This folder acts as a storage for my basic tasks and projects on the journey to learn C and C++
